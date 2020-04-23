@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Handlee&display=swap');
+
+html {
+    margin: 0;
+    padding: 0; 
+}
+
+body {
+    font-family: Handlee;
+    font-size: 13px;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 0;
+}
+
